@@ -1,0 +1,11 @@
+build
+bin
+
+.idea
+
+*.tgz
+*.tar.gz
+*.txt
+
+data
+db
